@@ -13,9 +13,16 @@ Is your organisation looking for any of these reasons, or any that apply for you
 |![logo](./img/ordina-logo.jpeg)|![logo](./img/ordina-logo.jpeg)|![logo](./img/ordina-logo.jpeg)|
 
 ## Why Ordina
-Our organisation can supply experts all over the line from beginning to the end of defining, executing and retaining **your organisation's** cloud migration or adoption by supplying:
+We are a 1-stop shop that can supply experts from A-Z in the process, executing and retaining **your organisation's** cloud migration or adoption by supplying:
 - High Performance Teams
 - Architects
+- Cloud strategy​
+- Cloud Move Solution​
+- AZURE/AWS Knowledge​
+- Partner Microsoft​
+- Secure by design​
+- MVP’s​
+- References
 - ...
 
 Happy Customer X
